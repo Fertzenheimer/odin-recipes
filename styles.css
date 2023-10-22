@@ -1,0 +1,24 @@
+/*  styles.css */
+
+.centertext {
+    text-align: center;
+}
+
+.textcolor {
+    color: yellow;
+}
+
+.backgroundcolor {
+    background-color: black;
+}
+
+.centerimage {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.italic {
+    font-style: italic
+}
